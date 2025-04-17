@@ -3,12 +3,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedaasli)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.aasli.aa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedDevST)
 
 ---
 
 ## 🚀 About Me  
-I'm a **Computer Engineering Student** at the Faculty of Science and Technology of Setiat, passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
+I'm a **Computer Engineering Student** at the Faculty of Science and Technology of Settat, passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
 - **Full-Stack Development** (React, Laravel, Spring Boot)  
 - **Database Design** (MySQL, PostgreSQL, SQL Server)  
 - **Desktop Applications** (JavaFX, C#, WPF)  
