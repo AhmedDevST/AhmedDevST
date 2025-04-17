@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a **Computer Engineering Student** at the Faculty of Science and Technology of Setiat, passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
+I'm a **Computer Engineering Student** at the Faculty of Science and Technology of Settat, passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
 - **Full-Stack Development** (React, Laravel, Spring Boot)  
 - **Database Design** (MySQL, PostgreSQL, SQL Server)  
 - **Desktop Applications** (JavaFX, C#, WPF)  
