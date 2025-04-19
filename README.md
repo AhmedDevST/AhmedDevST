@@ -14,7 +14,7 @@ I'm a **Computer Engineering Student** , passionate about building scalable web 
 - **Desktop Applications** (JavaFX, C#, WPF)  
 - **Automation & DevOps** (Docker, Git, Jira)  
 
-🔭 **Currently Learning:** Machine Learning fundamentals and advanced backend architectures.  
+
 
 ---
 
