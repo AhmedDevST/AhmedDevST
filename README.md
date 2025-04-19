@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aasli Ahmed  
+# 👋 Hi, I'm  Ahmed  
 **`Software Engineer & Full-Stack Developer`**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedaasli)
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a **Computer Engineering Student** at the Faculty of Science and Technology of Settat, passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
+I'm a **Computer Engineering Student** , passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
 - **Full-Stack Development** (React, Laravel, Spring Boot)  
 - **Database Design** (MySQL, PostgreSQL, SQL Server)  
 - **Desktop Applications** (JavaFX, C#, WPF)  
