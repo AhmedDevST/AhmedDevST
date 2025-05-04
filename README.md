@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a **Computer Engineering Student** , passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
+I'm a **Software Engineering Student** , passionate about building scalable web applications and exploring AI solutions. My focus areas include:  
 - **Full-Stack Development** (React, Laravel, Spring Boot)  
 - **Database Design** (MySQL, PostgreSQL, SQL Server)  
 - **Desktop Applications** (JavaFX, C#, WPF)  
