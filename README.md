@@ -59,5 +59,6 @@ I'm a **Software Engineering Student** , passionate about building scalable web 
 
 
 ## 📫 Let's Connect!  
-- **Email**: [ahmed.aasli.aa@gmail.com](mailto:ahmed.aasli.aa@gmail.com)  
+- **Email**: [ahmed.aasli.aa@gmail.com](mailto:ahmed.aasli.aa@gmail.com)
+- **Portfolio**: [Portfolio](https://ahmedaasli.me) 
 - **LinkedIn**: [Aasli Ahmed](https://linkedin.com/in/ahmedaasli)   
