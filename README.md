@@ -83,7 +83,6 @@
 </p>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=ahmed-dev&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📬 Let's Connect  
 
